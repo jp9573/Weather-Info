@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Info</string>
+
+    <array name="city_list">
+        <item>Mumbai</item>
+        <item>Bangalore</item>
+        <item>Pune</item>
+        <item>Ahmedabad</item>
+        <item>Kolkata</item>
+    </array>
+
+</resources>
